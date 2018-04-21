@@ -1,1 +1,1 @@
-# bootstrap-snippet
+# Bootstrap 4 RESPONSIVE ITEM CAROUSEL
